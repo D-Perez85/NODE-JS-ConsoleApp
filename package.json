@@ -1,0 +1,19 @@
+{
+  "name": "02---consoleapp",
+  "version": "1.0.0",
+  "description": "App de consola para interactuar con distintas opciones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D-Perez85/NODE-JS-ConsoleApp.git"
+  },
+  "author": "D-Perez85",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D-Perez85/NODE-JS-ConsoleApp/issues"
+  },
+  "homepage": "https://github.com/D-Perez85/NODE-JS-ConsoleApp#readme"
+}
